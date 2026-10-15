@@ -1,2 +1,4 @@
-# AI-Chatbot
-Giving people healthy tips to stay healthy
+#Mkdir
+# cd projects 
+#Git https://github.com/zinzimhlebi-coder/AI-Chatbot.git
+Cloning into 'AI Chatbot'
